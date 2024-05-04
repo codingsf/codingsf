@@ -5,6 +5,7 @@
     * [parallels desktop 19.3](parallels_desktop.md)
     * [骷髅头验证跳过](kuloutou.md)
     * [tiktok界面修改](tiktok.md)
+    * [wechat客户端抓包](wechat.md)
 
 [//]: # (    * [Writing more pages]&#40;more-pages.md&#41;)
 
