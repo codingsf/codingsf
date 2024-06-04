@@ -6,6 +6,7 @@
     * [骷髅头验证跳过](kuloutou.md)
     * [tiktok界面修改](tiktok.md)
     * [wechat客户端抓包](wechat.md)
+    * [tiktok符号恢复](tiktok_symbols.md)
 
 [//]: # (    * [Writing more pages]&#40;more-pages.md&#41;)
 
